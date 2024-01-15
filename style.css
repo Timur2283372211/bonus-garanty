@@ -24,19 +24,91 @@ background: #021635;
 }
 
 .vector{
-
+    margin-left: -32px;
+    margin-top: -5px;
+    z-index: 1;
+    background-color: #021635;
 }
 
 .line{
     position: absolute;
     width: 238px;
     height: 382px;
-    top: 49px;
+    top: 48px;
     left: 111px;
     border: 5px;
-    border: 5px solid #8E32C6
+    border: 5px solid #8E32C6;
+    z-index: 2;
 }
 
 .text{
-    
+position: absolute;
+top: 18px;
+left: 46px;
 }
+
+.raiting{
+    position: relative;
+    top: -2px;
+    left: -40px;
+}
+
+.line-2{
+    position: absolute;
+    width: 238px;
+    height: 382px;
+    top: 527px;
+    left: 111px;
+    border: 5px;
+    border: 5px solid #8E32C6;
+    z-index: 2;
+}
+
+.vector-2{
+    margin-left: -34px;
+    margin-top: -5px;
+    z-index: 1;
+    background-color: #021635;
+}
+
+.text-2{
+    position: absolute;
+    top: 16px;
+    left: 50px;
+    }
+
+    .raiting-2{
+        position: relative;
+        top: 2px;
+        left: -35px;
+    }
+
+.line-3{
+    position: absolute;
+    width: 238px;
+    height: 382px;
+    top: 1000px;
+    left: 111px;
+    border: 5px;
+    border: 5px solid #8E32C6;
+    z-index: 2;
+}
+
+.vector-3{
+    margin-left: -30px;
+    margin-top: -7px;
+    z-index: 1;
+    background-color: #021635;
+}
+
+.text-3{
+    position: absolute;
+    top: 17px;
+    left: 60px;
+    }
+
+    .raiting-3{
+        position: relative;
+        top: -35px;
+        left: -60px;
+    }
